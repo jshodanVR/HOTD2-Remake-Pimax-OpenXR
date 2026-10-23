@@ -1,0 +1,7 @@
+dist/
+work/
+*.user
+*.suo
+*.log
+*.sav
+*.bak

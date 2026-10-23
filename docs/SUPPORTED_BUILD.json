@@ -1,0 +1,23 @@
+{
+  "release": "v1.0.0-beta.1",
+  "steamAppId": "3376690",
+  "steamBuildId": "24017736",
+  "unityVersion": "2022.3.62f3",
+  "gameAssemblySha256": "55ecfbb2557fcca71840bb2e62183137676e55c9df95012f35f310f1ac3431b7",
+  "upstreamArchiveFileName": "TheHouseOfTheDead2_VR_FPS_FIX (1).zip",
+  "upstreamArchiveSha256": "e93bb8c4e185a104932502d0ace2fa09f4d87289338616ab33b2966d87e5a122",
+  "upstreamModSha256": "5161e7f2f469c6fa72ec2fc6af8513e4a95c71f7d49eab6125c1a748f55bda56",
+  "upstreamUrl": "https://github.com/Astienth/VR-Mods-Projects",
+  "profile": {
+    "runtime": "OpenXR",
+    "mode": "OpenXRLoader",
+    "pitchUpDegrees": 27,
+    "pistolForwardMeters": 0.04,
+    "pistolUpMeters": 0.04,
+    "pistolBaseMagazineMultiplier": 3,
+    "otherWeaponsMagazineMultiplier": 2,
+    "infiniteAmmo": false,
+    "allWeapons": true,
+    "leftStickClick": "Next weapon"
+  }
+}
